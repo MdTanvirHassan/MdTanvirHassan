@@ -7,7 +7,7 @@
 <h1 align="center">Hi.I'm Tanvir Hassan</h1>
 <h3 align="center">An enthusiastic Junior Software Engineer based in Bangladesh with a strong passion for coding and software development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafisgithub&label=Profile%20views&color=0e75b6&style=flat" alt="rafisgithub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdTanvirHassan&label=Profile%20views&color=0e75b6&style=flat" alt="MdTanvirHassan" /> </p>
 
 
 
