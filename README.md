@@ -76,12 +76,13 @@
 
 
 ###
+
+<br clear="both">
+<h3 align="left">My Contributions :</h3><hr/>
+<img src="https://raw.githubusercontent.com/MdTanvirHassan/MdTanvirHassan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 <!-- !logo -->
 <!-- <img width="1200" height="300px" src="https://media.tenor.com/k3BNIDqMr6QAAAAC/hacking-hacker.gif"> -->
 <img width="1200" height="150px" align="centre" src="https://i.pinimg.com/originals/15/19/95/15199572cf0639288f135adab038a523.gif" >
 
 <img width="1200" height="100px" src="https://thumbs.gfycat.com/BrokenReadyEchidna-size_restricted.gif">
-
-<br clear="both">
-<h3 align="left">My Contributions :</h3><hr/>
-<img src="https://raw.githubusercontent.com/MdTanvirHassan/MdTanvirHassan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
