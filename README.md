@@ -49,8 +49,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/laravel.svg" height="30" alt="Laravel" style="color:orange!important"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dspace.svg" height="30" alt="DSpace" />
-
+ <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dspace.svg" height="30" alt="DSpace" />
 
 </div>
 
