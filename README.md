@@ -75,7 +75,7 @@
 </div>
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/MdTanvirHassan/MdTanvirHassan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MdTanvirHassan/MdTanvirHassan/output/github-contributions-grid-snake.svg" alt="Snake animation" />
 
 
 ###
