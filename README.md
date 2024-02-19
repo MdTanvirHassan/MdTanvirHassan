@@ -70,13 +70,8 @@
 <a href="https://personal-portfolio-next-js-nine.vercel.app/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=briefcase&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" / target="_blank">
 </a>
-
-
+    
 </div>
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/MdTanvirHassan/MdTanvirHassan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 
 
 ###
@@ -85,3 +80,6 @@
 <img width="1200" height="150px" align="centre" src="https://i.pinimg.com/originals/15/19/95/15199572cf0639288f135adab038a523.gif" >
 
 <img width="1200" height="100px" src="https://thumbs.gfycat.com/BrokenReadyEchidna-size_restricted.gif">
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/MdTanvirHassan/MdTanvirHassan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
