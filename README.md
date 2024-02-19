@@ -66,8 +66,9 @@
 </a>
 
 <a href="https://personal-portfolio-next-js-nine.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" />
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=globe&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" />
 </a>
+
 
 </div>
 
