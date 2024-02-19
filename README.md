@@ -68,8 +68,8 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
 </a>
 <a href="https://personal-portfolio-next-js-nine.vercel.app/" target="_blank">
-    <img src="https://camo.githubusercontent.com/3c99fd56670d36b7740c6cc9414b147ac2970aa1e7e43fbcf9df0a12ed5e44e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d4646353732323f7374796c653d666f722d7468652d6261646765266c6f676f3d746f646f697374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&amp;logo=todoist&amp;logoColor=white" style="max-width: 100%;">
-<!--   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=briefcase&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" / target="_blank"> -->
+<!--     <img src="https://camo.githubusercontent.com/3c99fd56670d36b7740c6cc9414b147ac2970aa1e7e43fbcf9df0a12ed5e44e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d4646353732323f7374796c653d666f722d7468652d6261646765266c6f676f3d746f646f697374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&amp;logo=todoist&amp;logoColor=white" style="max-width: 100%;"> -->
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=todoist&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" / target="_blank">
 </a>
     
 </div>
