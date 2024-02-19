@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/laravel.svg" height="30" alt="Laravel" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dspace/dspace-plain-wordmark.svg" height="30" alt="DSpace" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dspace/dspace.svg" height="30" alt="DSpace" />
 </div>
 
 
@@ -74,7 +74,7 @@
 </div>
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/MdTanvirHassan/MdTanvirHassan/snake/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MdTanvirHassan/MdTanvirHassan/main/snake.svg" alt="Snake animation" />
 
 
 ###
