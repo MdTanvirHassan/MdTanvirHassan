@@ -83,5 +83,5 @@
 <img width="1200" height="100px" src="https://thumbs.gfycat.com/BrokenReadyEchidna-size_restricted.gif">
 
 <br clear="both">
-<h3 align="left">My Contributions :</h3>
+<h3 align="left">My Contributions :</h3><hr/>
 <img src="https://raw.githubusercontent.com/MdTanvirHassan/MdTanvirHassan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
