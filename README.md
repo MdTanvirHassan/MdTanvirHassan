@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/laravel.svg" height="30" alt="Laravel" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dspace/dspace-plain-wordmark.svg" height="30" alt="DSpace" />
 </div>
