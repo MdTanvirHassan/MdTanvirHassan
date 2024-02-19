@@ -15,6 +15,7 @@
 
 ###
 
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="12" />
@@ -76,3 +77,8 @@
 
 
 ###
+<!-- !logo -->
+<!-- <img width="1200" height="300px" src="https://media.tenor.com/k3BNIDqMr6QAAAAC/hacking-hacker.gif"> -->
+<img width="1200" height="150px" align="centre" src="https://i.pinimg.com/originals/15/19/95/15199572cf0639288f135adab038a523.gif" >
+
+<img width="1200" height="100px" src="https://thumbs.gfycat.com/BrokenReadyEchidna-size_restricted.gif">
